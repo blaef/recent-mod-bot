@@ -1,0 +1,40 @@
+{
+  "//2": "Geniş modüllere sahiptir.",
+  "//3": "Her JS dili altındaki projeye eklemenizi tavsiye ederiz.",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "musni.js",
+  "scripts": {
+    "start": "node musni.js"
+  },
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "chalk": "^4.0.0",
+    "common-tags": "^1.8.0",
+    "cupdb": "^1.0.8",
+    "dblapi.js": "^2.4.0",
+    "discord.js": "11.6.4",
+    "djs-commands": "^1.2.2",
+    "express": "^4.17.1",
+    "http": "^0.0.0",
+    "jimp": "^0.12.0",
+    "moment": "^2.25.3",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.1"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
